@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-KodePos",
+      "appliesTo": "tpmodul3_1302204024/KodePos.cs",
+      "type": "launch"
+    }
+  ]
+}
